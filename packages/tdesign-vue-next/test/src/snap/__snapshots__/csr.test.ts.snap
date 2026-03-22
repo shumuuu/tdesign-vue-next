@@ -101872,7 +101872,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/ci
               class="t-progress-demo-margin"
               data-v-a326fb30=""
             >
-              进度完成
+              进度状态完成
             </div>
           </div>
           <!---->
@@ -102048,7 +102048,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/ci
               class="t-progress-demo-margin"
               data-v-a326fb30=""
             >
-              进度被中断
+              进度状态被中断
             </div>
           </div>
           <!---->
@@ -102962,7 +102962,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/li
           class="t-progress-domo-margin"
           data-v-90300d2c=""
         >
-          进度完成
+          进度状态完成
         </div>
       </div>
       <!---->
@@ -103072,7 +103072,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/li
           class="t-progress-domo-margin"
           data-v-90300d2c=""
         >
-          进度被中断
+          进度状态被中断
         </div>
       </div>
       <!---->
@@ -103240,7 +103240,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/li
           class="t-progress-domo-margin"
           data-v-90300d2c=""
         >
-          进度0-10%时数字数字位置出现在目前进度的右边区域
+          进度条内部宽度不足以展示其内容时，该内容会自动显示在进度条右侧
         </div>
       </div>
       <!---->
@@ -103340,7 +103340,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/pl
       class="t-progress-domo-margin"
       data-v-825bb43f=""
     >
-      进度0-10%时数字数字位置出现在目前进度的右边区域
+      进度条内部宽度不足以展示其内容时，该内容会自动显示在进度条右侧
     </div>
   </div>
   <!---->
@@ -103424,7 +103424,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/pl
       class="t-progress-domo-margin"
       data-v-825bb43f=""
     >
-      进度完成
+      进度状态完成
     </div>
   </div>
   <!---->
@@ -103508,7 +103508,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/pl
       class="t-progress-domo-margin"
       data-v-825bb43f=""
     >
-      进度被中断
+      进度状态被中断
     </div>
   </div>
   <!---->
@@ -104048,7 +104048,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/st
         <div
           data-v-642e09f8=""
         >
-          进度完成：
+          进度状态完成：
         </div>
       </div>
       <!---->
@@ -104332,7 +104332,7 @@ exports[`csr snapshot test > csr test ./packages/components/progress/_example/st
         <div
           data-v-642e09f8=""
         >
-          进度被中断（如失去网络连接）
+          进度状态被中断（如失去网络连接）
         </div>
       </div>
       <!---->
